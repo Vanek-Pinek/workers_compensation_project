@@ -21,6 +21,7 @@
 &#x20;```bash
 
 &#x20;git clone https://github.com/Vanek-Pinek/workers_compensation_project.git
+
 &#x20;cd workers_compensation_project
 
 
