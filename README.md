@@ -20,8 +20,7 @@
 
 &#x20;```bash
 
-&#x20;git clone https://github.com/Vanek-Pinek/workers\_compensation\_project.git
-
+&#x20;(https://github.com/Vanek-Pinek/workers_compensation_project.git)
 
 
 2\. Установите зависимости:
