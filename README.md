@@ -21,7 +21,7 @@
 &#x20;```bash
 
 &#x20;git clone https://github.com/Vanek-Pinek/workers_compensation_project.git
-cd workers_compensation_project
+&#x20;cd workers_compensation_project
 
 
 2\. Установите зависимости:
